@@ -10,6 +10,7 @@ In the project directory, you can run:
 ### `npx create-react-app react-jwt-auth`
 ### `npm install react-router-dom.`
 ### `npm install bootstrap`
+### `npm install react-validation validator`
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
